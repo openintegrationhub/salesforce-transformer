@@ -91,7 +91,7 @@ Version 1.0.0
 
 ## License
 
-Apache-2.0 © [elastic.io GmbH](http://elastic.io)
+Apache-2.0 © [cloud ecosystem e.V.](https://www.cloudecosystem.org/)
 
 [npm-image]: https://badge.fury.io/js/jsonata-transform-component.svg
 [npm-url]: https://npmjs.org/package/jsonata-transform-component
