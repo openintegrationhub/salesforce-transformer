@@ -1,13 +1,8 @@
 {
   "name": "@openintegrationhub/salesforce-transformer",
   "version": "0.0.1",
-  "description": "elastic.io component for the Petstore API",
-  "homepage": "https://www.elastic.io",
-  "author": {
-    "name": "elastic.io GmbH",
-    "email": "info@elastic.io",
-    "url": "https://www.elastic.io"
-  },
+  "description": "Open Integration Hub transformer for Salesforce API",
+  "homepage": "Open Integration Hub transformer for Salesforce API",
   "files": [
     "lib"
   ],
